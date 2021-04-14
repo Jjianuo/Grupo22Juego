@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Grupo22\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\soam134\\Documents\\FDI\\VIDEOJUEGOS\\2020-2021\\METODOLOGIAS AGILES DE PRODUCCION\\PRACTICAS\\PRACTICA4\\Grupo22Juego\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Grupo22\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\soam134\\Documents\\FDI\\VIDEOJUEGOS\\2020-2021\\METODOLOGIAS AGILES DE PRODUCCION\\PRACTICAS\\PRACTICA4\\Grupo22Juego\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Grupo22\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\soam134\\Documents\\FDI\\VIDEOJUEGOS\\2020-2021\\METODOLOGIAS AGILES DE PRODUCCION\\PRACTICAS\\PRACTICA4\\Grupo22Juego\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Grupo22\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\jianu\\.nuget\\packages\\",
-        "outputPath": "C:\\Grupo22\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\soam134\\Documents\\FDI\\VIDEOJUEGOS\\2020-2021\\METODOLOGIAS AGILES DE PRODUCCION\\PRACTICAS\\PRACTICA4\\Grupo22Juego\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\soam134\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soam134\\Documents\\FDI\\VIDEOJUEGOS\\2020-2021\\METODOLOGIAS AGILES DE PRODUCCION\\PRACTICAS\\PRACTICA4\\Grupo22Juego\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jianu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\soam134\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
