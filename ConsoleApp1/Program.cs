@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TextoColor t = new TextoColor();
+            t.EscribeTexto("aaaa");
         }
     }
 }
